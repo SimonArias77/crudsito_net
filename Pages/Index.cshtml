@@ -1,0 +1,49 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4 titulo">Tabla Atletismo</h1>
+    <p>Información General <a href="https://olympics.com/en/paris-2024">Olimpicos</a>.</p>
+</div>
+
+<div class="container">
+                <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Atletas</th>
+                        <th scope="col">Tiempo</th>
+                        <th scope="col">Ranking</th>
+                        <th scope="col">Nacionalidad</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>Camila</td>
+                        <td>5.85</td>
+                        <td>1°</td>
+                         <td>Colombia</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Andrea</td>
+                        <td>6.02</td>
+                        <td>3°</td>
+                         <td>Republica Checa</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>Pamela</td>
+                        <td>5.91</td>
+                        <td>2°</td>
+                         <td>Rusia</td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+
+</div>
