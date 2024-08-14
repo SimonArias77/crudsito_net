@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudsitoWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d0abcd53c882cc0f7bfb985967b18b7ca8bee4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1215ad14dac6fcafae5170d55e61f751100082be")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudsitoWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudsitoWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
