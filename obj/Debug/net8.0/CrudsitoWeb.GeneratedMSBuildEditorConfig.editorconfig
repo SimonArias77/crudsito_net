@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/riwip5-006/C#/crudsito_net
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/riwip5-006/C\#/crudsito_net/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/riwip5-006/C\#/crudsito_net/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/riwip5-006/C\#/crudsito_net/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,8 +38,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/riwip5-006/C\#/crudsito_net/Pages/Read.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVhZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/riwip5-006/C\#/crudsito_net/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/riwip5-006/C\#/crudsito_net/Pages/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/riwip5-006/C\#/crudsito_net/Pages/_ViewImports.cshtml]
